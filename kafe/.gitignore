@@ -1,0 +1,30 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# SQLite database (kişisel veri içerir, repoya dahil etme)
+*.db
+*.db-shm
+*.db-wal
+
+# Yüklenen ürün görselleri (büyük dosyalar)
+CoffeeShopApp/images/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Publish çıktısı
+Okulda_Calistir_Hazir_Program/
